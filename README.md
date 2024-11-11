@@ -1,1 +1,1 @@
-# SQL-Andreas-Reinholdsson-DE24
+# SQL course using duckdb
