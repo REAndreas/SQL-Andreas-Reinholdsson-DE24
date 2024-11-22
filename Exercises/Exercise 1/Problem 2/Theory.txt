@@ -1,0 +1,30 @@
+A.
+DDL = Data Definition Language 
+DQL = Data Query Language
+DML = Data Manipulation Language
+DCL = Data Control Language
+TCL = Transaction Control Language
+
+B.
+WHERE before for example GROUP BY or HAVING used afterwards with an aggregate function
+
+C.
+Make sure to SELECT the correct data first before using a DELETE.
+
+D.
+Using the DISTINCT key from SQL which only shows the unique values.
+
+E.
+Cleaning and structuring data to make it more readable and usable.
+
+F.
+INSERT INTO (Column 1,column 2) VALUES (value1,value2)
+
+G.
+It will update all data for the choice made
+
+H.
+It will delete all data for the choice made
+
+I.
+CASE WHEN and yes it can be used with SELECT
